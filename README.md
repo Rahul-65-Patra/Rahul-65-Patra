@@ -1,6 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋 I'm Rahul Patra!</h1>
-<h3 align="center">A Passionate third-year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. I am originally from Kolkata, and I am dedicated to learning, growing, and contributing to innovative projects.</h3>
+<h3 align="center">A Passionate third-year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. And I am dedicated to learning, growing, and contributing to innovative projects.</h3>
+
+<h1>🎓 Education </h1>
+
+- **Bachelor of Technology (B.Tech)**
+  - **University:** Chitkara University, Himachal Pradesh
+  - **Expected Graduation:** 2026
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-65-patra&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-65-patra" /> </p>
 
