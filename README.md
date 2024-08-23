@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
-<h1 align="center">Hi 👋, I'm Rahul Patra!</h1>
+<h1 align="center">Hi 👋 I'm Rahul Patra!</h1>
 <h3 align="center">A Passionate third-year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. I am originally from Kolkata, and I am dedicated to learning, growing, and contributing to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-65-patra&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-65-patra" /> </p>
@@ -8,11 +8,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif">
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently crafting **My Portfolio** and building a full-stack project, blending creativity with cutting-edge technology.
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently, I’m exploring **React** to enhance my expertise in building dynamic user interfaces.
 
-- 👨‍💻 All of my projects are available at [https://rahul-65-patra.github.io/My_Portfolio/](https://rahul-65-patra.github.io/My_Portfolio/)
+- 👨‍💻 Visit my Portfolio [https://rahul-65-patra.github.io/My_Portfolio/](https://rahul-65-patra.github.io/My_Portfolio/)
 
 - 📫 How to reach me **patrarahul989@gmail.com**
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-65-patra&show_icons=true&locale=en" alt="rahul-65-patra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-65-patra&" alt="rahul-65-patra" /></p>
+<img src="https://habrastorage.org/getpro/habr/upload_files/5ff/bcb/03a/5ffbcb03abb1ccfaa54a6c2055e0fe58.gif" />
