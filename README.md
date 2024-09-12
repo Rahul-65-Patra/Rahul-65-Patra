@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif">
 
-- 🔭 I’m currently crafting **Hospital Management System for Smart India Hackathon** and building a full-stack project, blending creativity with cutting-edge technology.
+- 🔭 I’m currently crafting **Hospital Management System for Smart India Hackathon (SIH) ** and building a full-stack project, blending creativity with cutting-edge technology.
 
 - 🌱 Currently, I’m exploring **React** to enhance my expertise in building dynamic user interfaces.
 
