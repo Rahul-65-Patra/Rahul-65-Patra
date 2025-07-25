@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋 I'm Rahul Patra!</h1>
-<h3 align="center">A Passionate third-year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. And I am dedicated to learning, growing, and contributing to innovative projects.</h3>
+<h3 align="center">A Passionate Pre-final year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. And I am dedicated to learning, growing, and contributing to innovative projects.</h3>
 
 <h1>🎓 Education </h1>
 
@@ -17,11 +17,13 @@
 
 - 🔭 I’m currently crafting **Hospital Management System for Smart India Hackathon (SIH)** and building a full-stack project, blending creativity with cutting-edge technology.
 
-- 🌱 Currently, I’m exploring **React** to enhance my expertise in building dynamic user interfaces.
+- 📚 I'm exploring **Azure DevOps**, **Shell scripting**, and **Cloud Deployment (AWS/Azure)**
+
+- 💬 Ask me about **MERN Stack, REST APIs, Git, Algorithms, DSA** 
 
 - 👨‍💻 Visit my Portfolio [https://rahul-65-patra.github.io/My_Portfolio/](https://rahul-65-patra.github.io/My_Portfolio/)
 
-- 📫 How to reach me **patrarahul989@gmail.com**
+- 📫 Reach me **patrarahul989@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
