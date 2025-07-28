@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋 I'm Rahul Patra!</h1>
-<h3 align="center">A Passionate Pre-final year student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. And I am dedicated to learning, growing, and contributing to innovative projects.</h3>
+<h3 align="center">A Passionate student at Chitkara University, Himachal Pradesh, with a strong interest in web development and algorithmic problem-solving. And I am dedicated to learning, growing, and contributing to innovative projects.</h3>
 
 <h1>🎓 Education </h1>
 
