@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently crafting **Hospital Management System for Smart India Hackathon (SIH)** and building a full-stack project, blending creativity with cutting-edge technology.
 
-- 📚 I'm exploring **Azure DevOps**, **Shell scripting**, and **Cloud Deployment (AWS/Azure)**
+- 📚 I'm exploring **DevOps**, **Shell scripting**, and **Cloud Deployment (AWS and Azure)**
 
 - 💬 Ask me about **MERN Stack, REST APIs, Git, Algorithms, DSA** 
 
