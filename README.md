@@ -23,7 +23,7 @@
 
 - 👨‍💻 Visit my Portfolio [https://rahul-65-patra.github.io/My_Portfolio/](https://rahul-65-patra.github.io/My_Portfolio/)
 
-- 📫 Reach me **patrarahul989@gmail.com**
+- 📫 Reach me **patrarahul837@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
