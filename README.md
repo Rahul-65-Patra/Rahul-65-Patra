@@ -104,13 +104,9 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img width="1000"
-       src="https://github-profile-trophy.vercel.app/?username=rahul-65-patra&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15"
-       alt="GitHub Trophies" />
+<img width=1001 align="center" src="https://github-profile-trophy.vercel.app/?username=ankan24&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="trophy" /> <br/> <hr/>
 </p>
 <hr>
-
- 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
